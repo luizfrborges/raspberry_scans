@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gxQajRKzYpqBsfdGMWdjwNLLdN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="" />
+      <created>1599053829169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599053829169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="158" width="430" height="481" key="FileChooserDialogImpl" timestamp="1599053987726">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="466" y="158" width="430" height="481" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1599053987726" />
+    <state x="403" y="304" width="555" height="188" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599054186239">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="403" y="304" width="555" height="188" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1599054186239" />
+    <state x="396" y="297" width="569" height="202" key="git4idea.ui.GitResetDialog" timestamp="1599054119150">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="396" y="297" width="569" height="202" key="git4idea.ui.GitResetDialog/0.29.1366.739@0.29.1366.739" timestamp="1599054119150" />
+    <state x="396" y="247" width="573" height="303" key="git4idea.ui.GitTagDialog" timestamp="1599054236181">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="396" y="247" width="573" height="303" key="git4idea.ui.GitTagDialog/0.29.1366.739@0.29.1366.739" timestamp="1599054236181" />
+  </component>
+</project>
