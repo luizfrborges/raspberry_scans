@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/raspberry_blescan_azure.py" afterDir="false" />
+    <list default="true" id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="error 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raspberry_blescan_azure.py" beforeDir="false" afterPath="$PROJECT_DIR$/raspberry_blescan_azure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,21 @@
       <option name="presentableId" value="Default" />
       <updated>1599053829169</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1599055007697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599055007697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="error 1">
+      <created>1599055354785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599055354785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +82,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <MESSAGE value="error 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="error 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="158" width="430" height="481" key="FileChooserDialogImpl" timestamp="1599053987726">
@@ -85,10 +105,10 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="401" y="108" width="559" height="580" key="Github.UntrackedFilesDialog/0.29.1366.739@0.29.1366.739" timestamp="1599054486626" />
-    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1599054940284">
+    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1599055371613">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1599054940284" />
+    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1599055371613" />
     <state x="481" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599054696077">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
