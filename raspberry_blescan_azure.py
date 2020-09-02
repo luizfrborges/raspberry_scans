@@ -43,11 +43,11 @@ KEY = "TAANe/VVuc1a2fnB/igoeBD8p2mnlVYwatvngRADllE="
 
 LE_META_EVENT = 0x3e
 OGF_LE_CT L =0x08
-OCF_LE_SET_SCAN_ENABL E =0x000C
+OCF_LE_SET_SCAN_ENABLE =0x000C
 
 # these are actually subevents of LE_META_EVENT
-EVT_LE_CONN_COMPLET E =0x01
-EVT_LE_ADVERTISING_REPOR T =0x02
+EVT_LE_CONN_COMPLETE =0x01
+EVT_LE_ADVERTISING_REPORT =0x02
 
 def getBLESocket(devID):
     return bluez.hci_open_dev(devID)
