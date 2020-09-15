@@ -30,7 +30,6 @@ logger = logging.getLogger("azure")
 # "amqps://<URL-encoded-SAS-policy>:<URL-encoded-SAS-key>@<mynamespace>.servicebus.windows.net/myeventhub"
 # "amqps://<mynamespace>.servicebus.windows.net/myeventhub"
 # For example:
-# ADDRESS = "amqps://hubeventscan.servicebus.windows.net/eventhub2"
 ADDRESS = "amqps://<mynamespace>.servicebus.windows.net/myeventhub"
 
 # SAS policy and key are not required if they are encoded in the URL
@@ -49,6 +48,7 @@ OCF_LE_SET_SCAN_ENABLE =0x000C
 EVT_LE_CONN_COMPLETE =0x01
 EVT_LE_ADVERTISING_REPORT =0x02
 
+
 def getBLESocket(devID):
     return bluez.hci_open_dev(devID)
 
@@ -60,6 +60,7 @@ def getBLESocket(devID):
 #        myInteger += struct.unpack("B",pkt[i:i+1])[0] * multiple
 #        multiple = 1
 #    return myInteger
+
 
 def returnstringpacket(pkt):
     myString = "";
