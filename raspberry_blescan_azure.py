@@ -30,7 +30,7 @@ logger = logging.getLogger("azure")
 # "amqps://<URL-encoded-SAS-policy>:<URL-encoded-SAS-key>@<mynamespace>.servicebus.windows.net/myeventhub"
 # "amqps://<mynamespace>.servicebus.windows.net/myeventhub"
 # For example:
-ADDRESS = "amqps://<mynamespace>.servicebus.windows.net/myeventhub"
+ADDRESS = "amqps://<mynamespace>.servicebus.windows.net/<myeventhub>"
 
 # SAS policy and key are not required if they are encoded in the URL
 USER = "RootManageSharedAccessKey"
