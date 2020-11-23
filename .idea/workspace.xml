@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="error 2">
+    <list default="true" id="5de56241-88e9-4582-aab2-6ef66b7e5e4f" name="Default Changelist" comment="Addr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raspberry_blescan_azure.py" beforeDir="false" afterPath="$PROJECT_DIR$/raspberry_blescan_azure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599056109492</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Addr">
+      <created>1600201502113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600201502113</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,12 +97,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="error 1" />
     <MESSAGE value="error 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="error 2" />
+    <MESSAGE value="Addr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addr" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="158" width="430" height="481" key="FileChooserDialogImpl" timestamp="1599053987726">
@@ -112,10 +123,10 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="401" y="108" width="559" height="580" key="Github.UntrackedFilesDialog/0.29.1366.739@0.29.1366.739" timestamp="1599054486626" />
-    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1599056124080">
+    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1600201574949">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1599056124080" />
+    <state x="278" y="136" width="806" height="525" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600201574949" />
     <state x="481" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599054696077">
       <screen x="0" y="29" width="1366" height="739" />
     </state>

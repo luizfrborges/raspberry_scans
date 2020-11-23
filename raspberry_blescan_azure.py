@@ -34,7 +34,7 @@ ADDRESS = "amqps://<mynamespace>.servicebus.windows.net/myeventhub"
 
 # SAS policy and key are not required if they are encoded in the URL
 USER = "RootManageSharedAccessKey"
-KEY = "TAANe/VVuc1a2fnB/igoeBD8p2mnlVYwatvngRADllE="
+KEY = "<key>"
 
 # ------------------------------------------------------------
 
